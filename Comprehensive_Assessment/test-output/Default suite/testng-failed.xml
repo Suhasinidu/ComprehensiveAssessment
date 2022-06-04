@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.testCases.TestCases">
+        <methods>
+          <include name="AbouTest"/>
+          <include name="SofaTest"/>
+          <include name="setup"/>
+          <include name="StudyTest"/>
+          <include name="tearDown"/>
+          <include name="BedTest"/>
+          <include name="TopdealTest"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.mindtree.testCases.TestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

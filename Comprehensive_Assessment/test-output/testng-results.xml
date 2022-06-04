@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="11" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118779" started-at="2022-06-04T09:44:57Z" finished-at="2022-06-04T09:46:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118779" started-at="2022-06-04T09:44:57Z" finished-at="2022-06-04T09:46:55Z">
+      <class name="com.mindtree.testCases.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mindtree.testCases.TestCases@4386f16]" name="setup" is-config="true" duration-ms="10263" started-at="2022-06-04T09:44:57Z" finished-at="2022-06-04T09:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.mindtree.testCases.TestCases@4386f16]" name="loginTest" duration-ms="20175" started-at="2022-06-04T09:45:07Z" finished-at="2022-06-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="StudyTest()[pri:2, instance:com.mindtree.testCases.TestCases@4386f16]" name="StudyTest" duration-ms="12082" started-at="2022-06-04T09:45:27Z" finished-at="2022-06-04T09:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudyTest -->
+        <test-method status="PASS" signature="SofaTest()[pri:3, instance:com.mindtree.testCases.TestCases@4386f16]" name="SofaTest" duration-ms="6835" started-at="2022-06-04T09:45:39Z" finished-at="2022-06-04T09:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SofaTest -->
+        <test-method status="PASS" signature="AbouTest()[pri:4, instance:com.mindtree.testCases.TestCases@4386f16]" name="AbouTest" duration-ms="9449" started-at="2022-06-04T09:45:46Z" finished-at="2022-06-04T09:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AbouTest -->
+        <test-method status="PASS" signature="BedTest()[pri:5, instance:com.mindtree.testCases.TestCases@4386f16]" name="BedTest" duration-ms="11327" started-at="2022-06-04T09:45:55Z" finished-at="2022-06-04T09:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BedTest -->
+        <test-method status="PASS" signature="TopdealTest()[pri:6, instance:com.mindtree.testCases.TestCases@4386f16]" name="TopdealTest" duration-ms="12391" started-at="2022-06-04T09:46:07Z" finished-at="2022-06-04T09:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TopdealTest -->
+        <test-method status="PASS" signature="DinningTest()[pri:7, instance:com.mindtree.testCases.TestCases@4386f16]" name="DinningTest" duration-ms="9130" started-at="2022-06-04T09:46:19Z" finished-at="2022-06-04T09:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DinningTest -->
+        <test-method status="PASS" signature="SearchTest()[pri:8, instance:com.mindtree.testCases.TestCases@4386f16]" name="SearchTest" duration-ms="6683" started-at="2022-06-04T09:46:28Z" finished-at="2022-06-04T09:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="orderTest()[pri:9, instance:com.mindtree.testCases.TestCases@4386f16]" name="orderTest" duration-ms="14056" started-at="2022-06-04T09:46:35Z" finished-at="2022-06-04T09:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderTest -->
+        <test-method status="PASS" signature="WishlistTest()[pri:10, instance:com.mindtree.testCases.TestCases@4386f16]" name="WishlistTest" duration-ms="6319" started-at="2022-06-04T09:46:49Z" finished-at="2022-06-04T09:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishlistTest -->
+      </class> <!-- com.mindtree.testCases.TestCases -->
+      <class name="com.mindtree.testCases.BaseClass">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mindtree.testCases.BaseClass@79b06cab]" name="tearDown" is-config="true" duration-ms="1030" started-at="2022-06-04T09:46:55Z" finished-at="2022-06-04T09:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mindtree.testCases.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
